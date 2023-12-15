@@ -10,7 +10,7 @@ Prediksi harga emas merupakan upaya untuk memperkirakan nilai masa depan dari lo
 
 ## Apa itu Regression Linear pada Mechine Learning ?
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://drive.google.com/file/d/1v4DjLd9ukn04QB3JwGG5eClITPrIOHHI/view?usp=sharing))
+![Regression Linear](https://i.ibb.co/C619nnj/regresi-linear.png)
 
 Regresi linier adalah salah satu teknik dasar dalam machine learning yang digunakan untuk memodelkan hubungan antara variabel independen (input) dan variabel dependen (output) yang kontinu. 
 Tujuannya adalah untuk menemukan hubungan linier yang terbaik antara variabel input dan output.
